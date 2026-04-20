@@ -147,27 +147,6 @@ The notebook generates multiple visualizations:
 - Day-of-week demand patterns
 - Wind penetration rate distributions
 
-## Key Insights for Grid Operations
-
-1. **Predictability**: Weekday/weekend cycles are highly predictable (p < 0.000001)
-2. **Seasonal Planning**: Clear winter/summer patterns support capacity planning
-3. **Renewable Integration**: Both wind and solar can be reliably managed with proper forecasting
-4. **Grid Flexibility**: Export capacity needed during high wind penetration periods (>100%)
-5. **Maintenance Windows**: Weekends and summer periods are optimal for system maintenance
-
-## Future Enhancements
-
-- Forecast modeling (ARIMA, Prophet, machine learning)
-- Demand elasticity analysis
-- Carbon emissions tracking
-- Cost-benefit analysis of renewable expansion
-- Real-time monitoring dashboard
-
-## Author
-
-Assignment 2: DIAML (Data Intelligence and Analytics for Machine Learning)
-Academic Year: 2025
-
 ## License
 
 This project is for educational purposes.
