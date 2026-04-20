@@ -180,5 +180,3 @@ This project is for educational purposes.
 - Data format: Excel (.xlsx)
 
 ---
-
-**Last Updated**: April 2026
